@@ -2,6 +2,7 @@
 var Word = require('./word.js');
 var inquirer = require('inquirer');
 var randomWords = require('random-words');
+var random = require('lodash.random');
 
 // console.log(randomWords());
 

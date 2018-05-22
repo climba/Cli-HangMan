@@ -7,5 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mike White",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/climba/Cli-HangMan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/climba/Cli-HangMan/issues"
+  },
+  "homepage": "https://github.com/climba/Cli-HangMan#readme"
 }
