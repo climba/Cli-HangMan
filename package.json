@@ -8,7 +8,12 @@
   },
   "author": "Mike White",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "lodash.random": "^3.2.0",
+    "random-words": "^1.1.0",
+    "requirer": "0.0.4"
+  },
   "devDependencies": {},
   "repository": {
     "type": "git",
